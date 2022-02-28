@@ -8,126 +8,243 @@ All knowledge of the terminal
 
 
 alias Converts complex commands into simpler one.
+
 bzip2 / bunzip2 Compresses a file / Deompress a bzip2 file.
+
 bzcat / bzmore Displays files compressed with bzip2.
+
 cal Displays calendar.
+
 cat It is a multi-function command.
+
 cd Changes current working directory.
+
 chage Sets an expiration date for a user account.
+
 chgrp Changes group.
+
 chmod Changes permission for a file or directory.
+
 chown Changes the owner of a file or directory.
+
 chsh Changes the shell.
+
 clear Clears the terminal.
+
 comm Compares two streams or files.
+
 cp Copies file content from one file to other file.
+
 cut Used to display desired column from a file.
+
 date Displays current date.
+
 df Checks the disk space in system.
+
 echo Prints the typed word on terminal.
+
 exit Exits from the current user group to the last group.
+
 export Exports shell variables to other shell.
+
 file Displays the type of file.
+
 find Finds files for a particular search.
+
 gpasswd Transfers group membership to another user.
+
 grep Filters lines of text containing a certain string.
+
 groupadd Creates a group.
+
 groupdel Permanently removes a group.
+
 groupmod Changes group name.
+
 groups Displays the group name to which current user belongs to.
+
 gzip / gunzip Compresses a file / Decompress a gzip file.
+
 head Displays first ten lines of a file.
+
 history Displays older commands from shell command history.
+
 HISTSIZE Determines the number of commands to be stored in current environment.
+
 HISTFILE Displays the file that contains the history.
+
 HISTFILESIZE Sets the number of commands kept in history file.
+
 id Tells about the user's id in the system.
+
 less Displays file content according to the width of the terminal.
+
 locate Searches a file in the database.
+
 ls Lists all the files of a directory.
+
 man Displays the manual page for the specified command.
+
 mkdir Creates directory.
+
 more Displays one output screen at a time.
+
 mv Renames directories or files.
+
 od Displays a file content in octal format.
+
 passwd Set password for a user group.
+
 pwd Display the current working directory location.
+
 PS1 Change the prompt name in terminal.
+
 rename Renames more than one file at once.
+
 rm Removes a file.
+
 rmdir Removes a directory.
+
 set -o noclobber Prevents file from getting overwrite.
+
 set +o noclobber Allows overwriting in existing file.
+
 set -u Displays undefined variables as error.
+
 set +u Displays nothing for undefined variable.
+
 set -x Displays shell expansion.
+
 set +x Disables shell expansion.
+
 sed Performs editing in streams.
+
 sleep Waits for the specified number of seconds.
+
 sort sorts the content in alphabetical order.
+
 su Allows a user to run a shell as another user.
+
 sudo Allows a user to start a program with credentials of another user.
+
 tac Displays file content in opposite order.
+
 tail Displays last ten lines of a file.
+
 tar Compresses a directory.
+
 tee Puts stdin on stdout and then into a file.
+
 time Displays time taken to execute a command.
+
 touch Creates an empty file.
+
 tr Translates characters.
+
 type Displays information about command type.
+
 uniq Sorts and display multi times repeating lines only once.
+
 unset Removes a variable from shell.
+
 useradd Adds users.
+
 userdel Deletes users.
+
 usermod Modifies the properties of a user.
+
 vi Opens vi editor to write a program.
+
 w Displays who is logged on and what are they doing.
+
 wc Counts words, lines and characters.
+
 who Tells who is logged on the system.
+
 whoami Tells the name of the user.
+
 who am i Displays the line pointing to your current session.
+
 zcat / zmore Views the files compressed with gzip.
+
 Linux Symbols
+
 Symbols Function
+
 & (ampersand) Returns the shell prompt back without waiting for the command to finish.
+
 ; (semicolon) Write two or more commands on the same line separated by (;).
+
 $? (dollar question mark) Exit code of prevoius command is stored in the form of 0 or 1.
+
 || (double vertical bar) Represent a logical OR.
+
 && (double ampersand) Represent a logical AND.
 
 (pound sign) Consider the words typed after it as comment.
+
 \ (escaping special character) Enable the use of control characters.
+
 *(asterisk) Generate output matching to the specified * with any number of characters.
+
 ? (question mark) Generate output matching to the specified ? with exaxtly one character.
+
 [] (square brackets) Generate output matching any number of characters between the [].
+
 !! (bang bang) Repeat last command in bash.
+
 ! (bang) Repeat commands other than the last one in bash.
 
 accept Accept or Reject jobs to a destination, such as a printer.
+
 access Check a user’s RWX permission for a file.
+
 aclocal GNU autoconf too
+
 aconnect ALSA sequencer connection manager.
+
 acpi Show information about the Advanced Configuration and Power Interface.
+
 acpi_available Check if ACPI functionality exists on the system.
+
 acpid Informs user-space programs about ACPI events.
+
 addr2line Used to convert addresses into file names and line numbers.
+
 addresses Formats for internet mail addresses.
+
 agetty An alternative Linux Getty
+
 alias Create an alias for Linux commands
+
 alsactl Access advanced controls for ALSA soundcard driver.
+
 amidi Perform read/write operation for ALSA RawMIDI ports.
+
 amixer Access CLI-based mixer for ALSA soundcard driver.
+
 anacron Used to run commands periodically.
+
 aplay Sound recorder and player for CLI.
+
 aplaymidi CLI utility used to play MIDI files.
+
 apm Show Advanced Power Management (APM) hardware info on older systems.
+
 apmd Used to handle events reported by APM BIOS drivers.
+
 apropos Shows the list of all man pages containing a specific keyword
+
 apt Advanced Package Tool, a package management system for Debian and derivatives.
+
 apt-get Command-line utility to install/remove/update packages based on APT system.
+
 aptitude Another utility to add/remove/upgrade packages based on the APT system.
+
 ar A utility to create/modify/extract from archives.
+
 arch Display print machine hardware name.
+
 arecord Just like aplay, it’s a sound recorder and player for ALSA soundcard driver.
 arecordmidi Record standard MIDI files.
 arp Used to make changes to the system’s ARP cache
