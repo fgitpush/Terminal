@@ -8,6 +8,7 @@ All knowledge of the terminal
 | No. | Questions |
 | --- | --------- |
 How to 
+|0  | [Show path](#What-is-WordPress) |
 |1  | [Show files?](#What-is-WordPress) |
 |2  | [Show files including hidden ones](#Which-year-was-WordPress-released) |
 |3  | [Go to a directory](#Which-year-was-WordPress-released) |
