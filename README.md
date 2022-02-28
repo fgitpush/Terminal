@@ -9,7 +9,7 @@ All knowledge of the terminal
 | --- | --------- |
 How to 
 |0  | [Show path](#Show-path) |
-|1  | [Show files?](Show-files) |
+|1  | [Show files?](#Show-files) |
 |2  | [Show files including hidden ones](#Which-year-was-WordPress-released) |
 |3  | [Go to a directory](#Which-year-was-WordPress-released) |
 |4  | [Make a directory](#Which-year-was-WordPress-released) |
