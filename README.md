@@ -34,16 +34,18 @@ How to
 |23 | [Search](#Which-year-was-WordPress-released) |
 
 01. ### Show path
-    
+    ```
    pwd
     # /Users/universe/Desktop
+    ```
 
    **[⬆ Back to Top](#table-of-contents)**
 
 02. ### Show files?
-    
+    ```
     ls
     # todo     todo.txt
+```
 
    **[⬆ Back to Top](#table-of-contents)**
    
