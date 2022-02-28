@@ -32,19 +32,16 @@ How to
 |21  | [Computer IP](#Which-year-was-WordPress-released) |
 |22  | [Send a request Ping](#Which-year-was-WordPress-released) |
 |23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
-|23 | [Search](#Which-year-was-WordPress-released) |
+|24 | [Show last 10 lines of file](#tail) |
+|25 | [Compare two files](#diff) |
+|26 | [Show current Jobs](#jobs) |
+|27 | [Kill process](#kill) |
+|28 | [Download](#wget) |
+|29 | [Task Manager](#top) |
+|30 | [History of commands](#history) |
+|31 | [Add User to](#useradd) |
+|32 | [Del User from](#userdel ) |
+
 
 01. ### Show path
     ```
