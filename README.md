@@ -5,8 +5,6 @@ All knowledge of the terminal
 
 ### Table of Contents
 
-
-
 alias Converts complex commands into simpler one.
 
 bzip2 / bunzip2 Compresses a file / Deompress a bzip2 file.
